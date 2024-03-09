@@ -1,0 +1,61 @@
+11:32:17.477 [main] INFO  TestBase.BaseClass - --- Running on local system ---
+11:32:24.678 [main] INFO  TestBase.BaseClass - Started chrome browser
+11:32:34.822 [main] INFO  TestBase.BaseClass - clicked on Car insurance menu
+11:32:49.341 [main] INFO  TestBase.BaseClass - Successfully Entered all car details
+11:50:19.165 [main] INFO  TestBase.BaseClass - --- Running on local system ---
+11:50:24.750 [main] INFO  TestBase.BaseClass - Started chrome browser
+11:50:33.251 [main] INFO  TestBase.BaseClass - -----Test Case for --------
+11:50:33.252 [main] INFO  TestBase.BaseClass - Successfully clicked on Travel Insurance
+11:50:37.977 [main] INFO  TestBase.BaseClass - Successfully selected country
+11:50:45.039 [main] INFO  TestBase.BaseClass - Successfully selected travel date
+11:50:45.829 [main] INFO  TestBase.BaseClass - Successfully selected number of persons and their age
+11:50:50.187 [main] INFO  TestBase.BaseClass - Successfully selected their medical health
+11:50:54.483 [main] INFO  TestBase.BaseClass - Successfully Entered mobile number
+11:51:11.540 [main] WARN  org.apache.poi.POIDocument - DocumentSummaryInformation property set came back as null
+11:51:11.540 [main] WARN  org.apache.poi.POIDocument - SummaryInformation property set came back as null
+11:51:11.582 [main] INFO  TestBase.BaseClass - Successfully entered traveller insurance
+11:51:15.811 [main] INFO  TestBase.BaseClass - clicked on Car insurance menu
+11:51:30.351 [main] INFO  TestBase.BaseClass - Successfully Entered all car details
+11:53:13.783 [main] INFO  TestBase.BaseClass - enters valid data
+11:53:27.449 [main] INFO  TestBase.BaseClass - car Quotes are entered in Excel
+11:53:31.338 [main] INFO  TestBase.BaseClass - Successfully entered health insurance list
+11:58:35.696 [main] INFO  TestBase.BaseClass - --- Running on local system ---
+11:58:41.843 [main] INFO  TestBase.BaseClass - Started chrome browser
+12:00:32.739 [main] INFO  TestBase.BaseClass - -----Test Case for --------
+12:00:32.740 [main] INFO  TestBase.BaseClass - Successfully clicked on Travel Insurance
+12:00:38.155 [main] INFO  TestBase.BaseClass - clicked on Car insurance menu
+12:00:53.007 [main] INFO  TestBase.BaseClass - Successfully Entered all car details
+12:00:55.060 [main] INFO  TestBase.BaseClass - Error message is displayed after entering invalid data
+12:00:55.853 [main] INFO  TestBase.BaseClass - enters valid data
+12:01:09.650 [main] INFO  TestBase.BaseClass - car Quotes are entered in Excel
+12:01:12.216 [main] INFO  TestBase.BaseClass - Successfully entered health insurance list
+19:49:42.769 [main] INFO  TestBase.BaseClass - --- Running on local system ---
+19:49:48.016 [main] INFO  TestBase.BaseClass - Started chrome browser
+19:51:28.287 [main] INFO  TestBase.BaseClass - --- Running on local system ---
+19:51:33.695 [main] INFO  TestBase.BaseClass - Started chrome browser
+19:53:11.428 [main] INFO  TestBase.BaseClass - --- Running on local system ---
+19:53:16.347 [main] INFO  TestBase.BaseClass - Started chrome browser
+19:55:17.312 [main] INFO  StepDefinition.Hooks -  Testing in chrome___
+19:55:25.848 [main] INFO  StepDefinition.Hooks - -----Test Case for --------
+19:55:25.848 [main] INFO  StepDefinition.Hooks - Successfully clicked on Travel Insurance
+19:55:30.773 [main] INFO  StepDefinition.Hooks - Successfully selected country
+19:55:38.075 [main] INFO  StepDefinition.Hooks - Successfully selected travel date
+19:55:39.130 [main] INFO  StepDefinition.Hooks - Successfully selected number of persons and their age
+19:55:43.562 [main] INFO  StepDefinition.Hooks - Successfully selected their medical health
+19:55:47.946 [main] INFO  StepDefinition.Hooks - Successfully Entered mobile number
+19:55:58.093 [main] INFO  StepDefinition.Hooks - clicked on Car insurance menu
+19:56:12.970 [main] INFO  StepDefinition.Hooks - Successfully Entered all car details
+19:56:49.492 [main] INFO  StepDefinition.Hooks - clicked on Car insurance menu
+19:57:04.238 [main] INFO  StepDefinition.Hooks - Successfully Entered all car details
+19:57:04.919 [main] INFO  StepDefinition.Hooks - enters valid data
+19:57:20.529 [main] INFO  StepDefinition.Hooks - car Quotes are entered in Excel
+19:57:24.772 [main] INFO  StepDefinition.Hooks - Successfully entered health insurance list
+19:58:43.967 [main] INFO  TestBase.BaseClass - --- Running on local system ---
+19:58:49.457 [main] INFO  TestBase.BaseClass - Started chrome browser
+19:58:59.170 [main] INFO  TestBase.BaseClass - -----Test Case for --------
+19:58:59.170 [main] INFO  TestBase.BaseClass - Successfully clicked on Travel Insurance
+19:59:04.111 [main] INFO  TestBase.BaseClass - Successfully selected country
+19:59:11.542 [main] INFO  TestBase.BaseClass - Successfully selected travel date
+19:59:12.752 [main] INFO  TestBase.BaseClass - Successfully selected number of persons and their age
+19:59:17.257 [main] INFO  TestBase.BaseClass - Successfully selected their medical health
+19:59:21.645 [main] INFO  TestBase.BaseClass - Successfully Entered mobile number

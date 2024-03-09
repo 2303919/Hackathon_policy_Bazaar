@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-09T20:07:32 IST" name="Suite" finished-at="2024-03-09T20:09:10 IST" duration-ms="97954">
+    <groups>
+      <group name="master">
+        <method signature="TC01_travel_Insurance.travel_insurance()[pri:0, instance:TestCase.TC01_travel_Insurance@9d5509a]" name="travel_insurance" class="TestCase.TC01_travel_Insurance"/>
+        <method signature="TC02_Car_Insurance.car_Details_invalid()[pri:0, instance:TestCase.TC02_Car_Insurance@6ed3ccb2]" name="car_Details_invalid" class="TestCase.TC02_Car_Insurance"/>
+        <method signature="TC01_travel_Insurance.travel_details()[pri:1, instance:TestCase.TC01_travel_Insurance@9d5509a]" name="travel_details" class="TestCase.TC01_travel_Insurance"/>
+        <method signature="TC03_Health_Insurance.print_health_Insurance()[pri:1, instance:TestCase.TC03_Health_Insurance@1a677343]" name="print_health_Insurance" class="TestCase.TC03_Health_Insurance"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-03-09T20:07:32 IST" name="Test" finished-at="2024-03-09T20:09:10 IST" duration-ms="97954">
+      <class name="TestCase.TC01_travel_Insurance">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC01_travel_Insurance@9d5509a]" started-at="2024-03-09T20:07:33 IST" name="setup" finished-at="2024-03-09T20:07:45 IST" duration-ms="12689" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Win11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="travel_insurance()[pri:0, instance:TestCase.TC01_travel_Insurance@9d5509a]" started-at="2024-03-09T20:07:45 IST" name="travel_insurance" finished-at="2024-03-09T20:07:49 IST" duration-ms="3507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travel_insurance -->
+        <test-method signature="travel_details()[pri:1, instance:TestCase.TC01_travel_Insurance@9d5509a]" started-at="2024-03-09T20:07:49 IST" name="travel_details" finished-at="2024-03-09T20:08:28 IST" duration-ms="39007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travel_details -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestCase.TC01_travel_Insurance@9d5509a]" started-at="2024-03-09T20:09:05 IST" name="closeBrowser" finished-at="2024-03-09T20:09:10 IST" duration-ms="4884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCase.TC01_travel_Insurance -->
+      <class name="TestCase.TC03_Health_Insurance">
+        <test-method signature="print_health_Insurance()[pri:1, instance:TestCase.TC03_Health_Insurance@1a677343]" started-at="2024-03-09T20:09:03 IST" name="print_health_Insurance" finished-at="2024-03-09T20:09:05 IST" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_health_Insurance -->
+      </class> <!-- TestCase.TC03_Health_Insurance -->
+      <class name="TestCase.TC02_Car_Insurance">
+        <test-method signature="car_Details_invalid()[pri:0, instance:TestCase.TC02_Car_Insurance@6ed3ccb2]" started-at="2024-03-09T20:08:28 IST" name="car_Details_invalid" finished-at="2024-03-09T20:08:49 IST" duration-ms="21081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car_Details_invalid -->
+        <test-method signature="car_Details_valid()[pri:1, instance:TestCase.TC02_Car_Insurance@6ed3ccb2]" started-at="2024-03-09T20:08:50 IST" name="car_Details_valid" finished-at="2024-03-09T20:09:03 IST" duration-ms="13222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car_Details_valid -->
+      </class> <!-- TestCase.TC02_Car_Insurance -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

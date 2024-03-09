@@ -1,0 +1,45 @@
+19:59:39.728 [main] WARN  org.apache.poi.POIDocument - DocumentSummaryInformation property set came back as null
+19:59:39.738 [main] WARN  org.apache.poi.POIDocument - SummaryInformation property set came back as null
+19:59:39.773 [main] INFO  TestBase.BaseClass - Successfully entered traveller insurance
+19:59:44.184 [main] INFO  TestBase.BaseClass - clicked on Car insurance menu
+19:59:58.895 [main] INFO  TestBase.BaseClass - Successfully Entered all car details
+20:00:00.853 [main] INFO  TestBase.BaseClass - Error message is displayed after entering invalid data
+20:00:01.583 [main] INFO  TestBase.BaseClass - enters valid data
+20:00:14.980 [main] INFO  TestBase.BaseClass - car Quotes are entered in Excel
+20:00:17.333 [main] INFO  TestBase.BaseClass - Successfully entered health insurance list
+20:02:31.367 [main] INFO  StepDefinition.Hooks -  Testing in chrome___
+20:02:40.532 [main] INFO  StepDefinition.Hooks - -----Test Case for --------
+20:02:40.532 [main] INFO  StepDefinition.Hooks - Successfully clicked on Travel Insurance
+20:02:45.260 [main] INFO  StepDefinition.Hooks - Successfully selected country
+20:02:52.373 [main] INFO  StepDefinition.Hooks - Successfully selected travel date
+20:02:53.462 [main] INFO  StepDefinition.Hooks - Successfully selected number of persons and their age
+20:02:57.885 [main] INFO  StepDefinition.Hooks - Successfully selected their medical health
+20:03:02.448 [main] INFO  StepDefinition.Hooks - Successfully Entered mobile number
+20:03:21.206 [main] WARN  org.apache.poi.POIDocument - DocumentSummaryInformation property set came back as null
+20:03:21.206 [main] WARN  org.apache.poi.POIDocument - SummaryInformation property set came back as null
+20:03:21.424 [main] INFO  StepDefinition.Hooks - Successfully entered traveller insurance
+20:03:25.894 [main] INFO  StepDefinition.Hooks - clicked on Car insurance menu
+20:03:40.550 [main] INFO  StepDefinition.Hooks - Successfully Entered all car details
+20:04:17.509 [main] INFO  StepDefinition.Hooks - clicked on Car insurance menu
+20:04:33.208 [main] INFO  StepDefinition.Hooks - Successfully Entered all car details
+20:04:34.243 [main] INFO  StepDefinition.Hooks - enters valid data
+20:04:49.030 [main] INFO  StepDefinition.Hooks - car Quotes are entered in Excel
+20:04:53.107 [main] INFO  StepDefinition.Hooks - Successfully entered health insurance list
+20:07:34.188 [main] INFO  TestBase.BaseClass - --- Running on local system ---
+20:07:40.597 [main] INFO  TestBase.BaseClass - Started chrome browser
+20:07:49.329 [main] INFO  TestBase.BaseClass - -----Test Case for --------
+20:07:49.330 [main] INFO  TestBase.BaseClass - Successfully clicked on Travel Insurance
+20:07:54.328 [main] INFO  TestBase.BaseClass - Successfully selected country
+20:08:01.341 [main] INFO  TestBase.BaseClass - Successfully selected travel date
+20:08:02.210 [main] INFO  TestBase.BaseClass - Successfully selected number of persons and their age
+20:08:06.570 [main] INFO  TestBase.BaseClass - Successfully selected their medical health
+20:08:10.970 [main] INFO  TestBase.BaseClass - Successfully Entered mobile number
+20:08:28.585 [main] WARN  org.apache.poi.POIDocument - DocumentSummaryInformation property set came back as null
+20:08:28.586 [main] WARN  org.apache.poi.POIDocument - SummaryInformation property set came back as null
+20:08:28.616 [main] INFO  TestBase.BaseClass - Successfully entered traveller insurance
+20:08:33.192 [main] INFO  TestBase.BaseClass - clicked on Car insurance menu
+20:08:47.812 [main] INFO  TestBase.BaseClass - Successfully Entered all car details
+20:08:49.836 [main] INFO  TestBase.BaseClass - Error message is displayed after entering invalid data
+20:08:50.528 [main] INFO  TestBase.BaseClass - enters valid data
+20:09:03.230 [main] INFO  TestBase.BaseClass - car Quotes are entered in Excel
+20:09:05.409 [main] INFO  TestBase.BaseClass - Successfully entered health insurance list
